@@ -1,0 +1,15 @@
+C:\GeekBrains\С#\Seminars\HM1\Task8\obj\Debug\net7.0\Task8.csproj.AssemblyReference.cache
+C:\GeekBrains\С#\Seminars\HM1\Task8\obj\Debug\net7.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\С#\Seminars\HM1\Task8\obj\Debug\net7.0\Task8.AssemblyInfoInputs.cache
+C:\GeekBrains\С#\Seminars\HM1\Task8\obj\Debug\net7.0\Task8.AssemblyInfo.cs
+C:\GeekBrains\С#\Seminars\HM1\Task8\obj\Debug\net7.0\Task8.csproj.CoreCompileInputs.cache
+C:\GeekBrains\С#\Seminars\HM1\Task8\bin\Debug\net7.0\Task8.exe
+C:\GeekBrains\С#\Seminars\HM1\Task8\bin\Debug\net7.0\Task8.deps.json
+C:\GeekBrains\С#\Seminars\HM1\Task8\bin\Debug\net7.0\Task8.runtimeconfig.json
+C:\GeekBrains\С#\Seminars\HM1\Task8\bin\Debug\net7.0\Task8.dll
+C:\GeekBrains\С#\Seminars\HM1\Task8\bin\Debug\net7.0\Task8.pdb
+C:\GeekBrains\С#\Seminars\HM1\Task8\obj\Debug\net7.0\Task8.dll
+C:\GeekBrains\С#\Seminars\HM1\Task8\obj\Debug\net7.0\refint\Task8.dll
+C:\GeekBrains\С#\Seminars\HM1\Task8\obj\Debug\net7.0\Task8.pdb
+C:\GeekBrains\С#\Seminars\HM1\Task8\obj\Debug\net7.0\Task8.genruntimeconfig.cache
+C:\GeekBrains\С#\Seminars\HM1\Task8\obj\Debug\net7.0\ref\Task8.dll

@@ -1,0 +1,15 @@
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM2\Task15\obj\Debug\net7.0\Task15.csproj.AssemblyReference.cache
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM2\Task15\obj\Debug\net7.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM2\Task15\obj\Debug\net7.0\Task15.AssemblyInfoInputs.cache
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM2\Task15\obj\Debug\net7.0\Task15.AssemblyInfo.cs
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM2\Task15\obj\Debug\net7.0\Task15.csproj.CoreCompileInputs.cache
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM2\Task15\bin\Debug\net7.0\Task15.exe
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM2\Task15\bin\Debug\net7.0\Task15.deps.json
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM2\Task15\bin\Debug\net7.0\Task15.runtimeconfig.json
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM2\Task15\bin\Debug\net7.0\Task15.dll
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM2\Task15\bin\Debug\net7.0\Task15.pdb
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM2\Task15\obj\Debug\net7.0\Task15.dll
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM2\Task15\obj\Debug\net7.0\refint\Task15.dll
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM2\Task15\obj\Debug\net7.0\Task15.pdb
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM2\Task15\obj\Debug\net7.0\Task15.genruntimeconfig.cache
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM2\Task15\obj\Debug\net7.0\ref\Task15.dll

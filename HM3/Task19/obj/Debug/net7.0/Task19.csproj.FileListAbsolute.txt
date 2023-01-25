@@ -1,0 +1,15 @@
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM3\Task19\bin\Debug\net7.0\Task19.exe
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM3\Task19\bin\Debug\net7.0\Task19.deps.json
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM3\Task19\bin\Debug\net7.0\Task19.runtimeconfig.json
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM3\Task19\bin\Debug\net7.0\Task19.dll
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM3\Task19\bin\Debug\net7.0\Task19.pdb
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM3\Task19\obj\Debug\net7.0\Task19.csproj.AssemblyReference.cache
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM3\Task19\obj\Debug\net7.0\Task19.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM3\Task19\obj\Debug\net7.0\Task19.AssemblyInfoInputs.cache
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM3\Task19\obj\Debug\net7.0\Task19.AssemblyInfo.cs
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM3\Task19\obj\Debug\net7.0\Task19.csproj.CoreCompileInputs.cache
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM3\Task19\obj\Debug\net7.0\Task19.dll
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM3\Task19\obj\Debug\net7.0\refint\Task19.dll
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM3\Task19\obj\Debug\net7.0\Task19.pdb
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM3\Task19\obj\Debug\net7.0\Task19.genruntimeconfig.cache
+C:\GeekBrains\С#\Seminars\HomeWork_C_Sharp\HM3\Task19\obj\Debug\net7.0\ref\Task19.dll

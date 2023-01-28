@@ -6,7 +6,7 @@ int sum = 0;
 Console.Write("[");
 for (int i = 0; i < arr.Length; i++)
 {
-    arr[i] = new Random().Next(1, 50);
+    arr[i] = new Random().Next(1, 10);
     Console.Write($"{arr[i]}, "); 
     if (i % 2 == 0) sum = sum + arr[i];
 }

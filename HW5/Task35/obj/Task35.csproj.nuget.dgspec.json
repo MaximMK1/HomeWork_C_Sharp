@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GB\\C#\\HomeWork_C_Sharp\\HW5\\Task35\\Task35.csproj": {}
+    "C:\\GeekBrains\\С#\\HomeWork_C_Sharp\\HW5\\Task35\\Task35.csproj": {}
   },
   "projects": {
-    "D:\\GB\\C#\\HomeWork_C_Sharp\\HW5\\Task35\\Task35.csproj": {
+    "C:\\GeekBrains\\С#\\HomeWork_C_Sharp\\HW5\\Task35\\Task35.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GB\\C#\\HomeWork_C_Sharp\\HW5\\Task35\\Task35.csproj",
+        "projectUniqueName": "C:\\GeekBrains\\С#\\HomeWork_C_Sharp\\HW5\\Task35\\Task35.csproj",
         "projectName": "Task35",
-        "projectPath": "D:\\GB\\C#\\HomeWork_C_Sharp\\HW5\\Task35\\Task35.csproj",
-        "packagesPath": "C:\\Users\\riffa\\.nuget\\packages\\",
-        "outputPath": "D:\\GB\\C#\\HomeWork_C_Sharp\\HW5\\Task35\\obj\\",
+        "projectPath": "C:\\GeekBrains\\С#\\HomeWork_C_Sharp\\HW5\\Task35\\Task35.csproj",
+        "packagesPath": "C:\\Users\\Максим\\.nuget\\packages\\",
+        "outputPath": "C:\\GeekBrains\\С#\\HomeWork_C_Sharp\\HW5\\Task35\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\riffa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Максим\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

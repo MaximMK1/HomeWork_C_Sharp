@@ -1,0 +1,15 @@
+D:\GB\C#\HomeWork_C_Sharp\HW5\Task34\bin\Debug\net7.0\Task34.exe
+D:\GB\C#\HomeWork_C_Sharp\HW5\Task34\bin\Debug\net7.0\Task34.deps.json
+D:\GB\C#\HomeWork_C_Sharp\HW5\Task34\bin\Debug\net7.0\Task34.runtimeconfig.json
+D:\GB\C#\HomeWork_C_Sharp\HW5\Task34\bin\Debug\net7.0\Task34.dll
+D:\GB\C#\HomeWork_C_Sharp\HW5\Task34\bin\Debug\net7.0\Task34.pdb
+D:\GB\C#\HomeWork_C_Sharp\HW5\Task34\obj\Debug\net7.0\Task34.csproj.AssemblyReference.cache
+D:\GB\C#\HomeWork_C_Sharp\HW5\Task34\obj\Debug\net7.0\Task34.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#\HomeWork_C_Sharp\HW5\Task34\obj\Debug\net7.0\Task34.AssemblyInfoInputs.cache
+D:\GB\C#\HomeWork_C_Sharp\HW5\Task34\obj\Debug\net7.0\Task34.AssemblyInfo.cs
+D:\GB\C#\HomeWork_C_Sharp\HW5\Task34\obj\Debug\net7.0\Task34.csproj.CoreCompileInputs.cache
+D:\GB\C#\HomeWork_C_Sharp\HW5\Task34\obj\Debug\net7.0\Task34.dll
+D:\GB\C#\HomeWork_C_Sharp\HW5\Task34\obj\Debug\net7.0\refint\Task34.dll
+D:\GB\C#\HomeWork_C_Sharp\HW5\Task34\obj\Debug\net7.0\Task34.pdb
+D:\GB\C#\HomeWork_C_Sharp\HW5\Task34\obj\Debug\net7.0\Task34.genruntimeconfig.cache
+D:\GB\C#\HomeWork_C_Sharp\HW5\Task34\obj\Debug\net7.0\ref\Task34.dll

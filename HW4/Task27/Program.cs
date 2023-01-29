@@ -3,12 +3,14 @@
 Console.Write("Введите число N: ");
 int N = Convert.ToInt32(Console.ReadLine());
 
-int sum = N % 10;   // последнняя цифра числа
-int n = N;
-
-while (n / 10 > 0)
+int Sum (int num)
 {
-    n = n / 10; 
-    sum = sum + n % 10;
-}
-Console.WriteLine($"Сумма цифр в числе {N} равна {sum}");
+    int sum = num % 10;
+    while (num / 10 > 0)
+    {
+        num = num / 10;
+        sum = sum + num % 10;
+    }
+    return sum;
+}       
+Console.WriteLine($"Сумма цифр в числе {N} равна {Sum(N)}");

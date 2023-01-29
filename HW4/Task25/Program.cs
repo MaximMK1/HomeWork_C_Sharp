@@ -5,14 +5,15 @@ Console.Write("Введите число A: ");
 int A = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите число B: ");
 int B = Convert.ToInt32(Console.ReadLine());
-int x = A;
+// int x = A;
 if (B > 0) 
 {
 int X (int x, int y)
    {
+   int num = x;
    for (int i = 2; i <= y; i++)
       {
-        x = x * A;
+        x = x * num;
       }
    return x;
    }   

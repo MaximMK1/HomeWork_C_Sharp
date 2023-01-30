@@ -4,13 +4,17 @@
 
 
 int[] arr = new int [new Random().Next(4, 10)];
+
+int Num (int[] array)
+{
 int count = 0;
 Console.Write("[");
-for (int i = 0; i < arr.Length; i++)
+for (int i = 0; i < array.Length; i++)
 {
-    arr[i] = new Random().Next(100, 1000);
-    Console.Write($"{arr[i]}, "); 
-    if (arr[i] % 2 == 0) count++;
+    array[i] = new Random().Next(100, 1000);
+    Console.Write($"{array[i]}, "); 
+    if (array[i] % 2 == 0) count++;
 }
-Console.Write($"\b\b] -> {count}");
-// Console.Write($"{count}");
+return count;
+}
+Console.Write($"\b\b] -> {Num(arr)}");

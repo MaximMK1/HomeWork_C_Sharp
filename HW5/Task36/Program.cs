@@ -4,19 +4,22 @@
 
 int[] arr = new int [new Random().Next(4, 10)];
 
+int ArrMaxMinDiff (int[] array)
+{
 Console.Write("[");
-for (int i = 0; i < arr.Length; i++)
-{
-    arr[i] = new Random().Next(1, 20);
-    Console.Write($"{arr[i]}, "); 
-}
-
-int max = arr[0];
-int min = arr[arr.Length-1];
-for (int i = 0; i < arr.Length; i++)
-{
-    if (arr[i] > max) max = arr[i];
-    if (arr[i] < min) min = arr[i]; 
-}
+for (int i = 0; i < array.Length; i++)
+    {
+    array[i] = new Random().Next(1, 20);
+    Console.Write($"{array[i]}, "); 
+    }
+int max = array[0];
+int min = array[array.Length-1];
+for (int i = 0; i < array.Length; i++)
+    {
+    if (array[i] > max) max = array[i];
+    if (array[i] < min) min = array[i]; 
+    }
 int diff = max - min;
-Console.Write($"\b\b] -> {diff}");
+return diff;
+}
+Console.Write($"\b\b] -> {ArrMaxMinDiff (arr)}");

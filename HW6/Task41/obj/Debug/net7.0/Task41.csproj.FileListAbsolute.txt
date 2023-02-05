@@ -1,0 +1,15 @@
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW6\Task41\obj\Debug\net7.0\Task41.csproj.AssemblyReference.cache
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW6\Task41\obj\Debug\net7.0\Task41.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW6\Task41\obj\Debug\net7.0\Task41.AssemblyInfoInputs.cache
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW6\Task41\obj\Debug\net7.0\Task41.AssemblyInfo.cs
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW6\Task41\obj\Debug\net7.0\Task41.csproj.CoreCompileInputs.cache
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW6\Task41\bin\Debug\net7.0\Task41.exe
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW6\Task41\bin\Debug\net7.0\Task41.deps.json
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW6\Task41\bin\Debug\net7.0\Task41.runtimeconfig.json
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW6\Task41\bin\Debug\net7.0\Task41.dll
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW6\Task41\bin\Debug\net7.0\Task41.pdb
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW6\Task41\obj\Debug\net7.0\Task41.dll
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW6\Task41\obj\Debug\net7.0\refint\Task41.dll
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW6\Task41\obj\Debug\net7.0\Task41.pdb
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW6\Task41\obj\Debug\net7.0\Task41.genruntimeconfig.cache
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW6\Task41\obj\Debug\net7.0\ref\Task41.dll

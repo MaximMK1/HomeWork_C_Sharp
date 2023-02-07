@@ -5,29 +5,23 @@
 
 
 Console.Write("Введите значение b1:  ");
-int k1 = Convert.ToInt32(Console.ReadLine());
+double b1 = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Введите значение k1:  ");
-int b1 = Convert.ToInt32(Console.ReadLine());
+double k1 = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Введите значение b2:  ");
-int k2 = Convert.ToInt32(Console.ReadLine());
+double b2 = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Введите значение k2:  ");
-int b2 = Convert.ToInt32(Console.ReadLine());
+double k2 = Convert.ToInt32(Console.ReadLine());
 
-// int x;
-// int y;
-
-double PointX(int k1, int b1, int k2, int b2) 
+double PointX(double k1, double b1, double k2, double b2) 
 {
-    // double y;
     double x = (b2-b1)/(k1-k2); 
-    // y = a1 * x + a2;
-    // return x;
-    //  double y = a1 * x + a2;
-    //  double y2 = c1 * x + c2;
-    //  y1 = y2;
-     return x;
+    return x;
 }
-Console.Write(PointX(b1, k1, b2, k2));
+double PointY = k1 * PointX(k1, b1, k2, b2) + b1; 
+
+Console.Write($"Точка пересечения прямых ({Math.Round(PointX(k1, b1, k2, b2), 2)},  {Math.Round(PointY, 2)})");
+// Console.Write($"Точка пересечения прямых ({PointX(k1, b1, k2, b2)},  {PointY})");

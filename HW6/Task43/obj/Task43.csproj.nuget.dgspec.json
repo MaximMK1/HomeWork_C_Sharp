@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GeekBrains\\С#\\HomeWork_C_Sharp\\HW6\\Task43\\Task43.csproj": {}
+    "D:\\GB\\C#\\HomeWork_C_Sharp\\HW6\\Task43\\Task43.csproj": {}
   },
   "projects": {
-    "C:\\GeekBrains\\С#\\HomeWork_C_Sharp\\HW6\\Task43\\Task43.csproj": {
+    "D:\\GB\\C#\\HomeWork_C_Sharp\\HW6\\Task43\\Task43.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GeekBrains\\С#\\HomeWork_C_Sharp\\HW6\\Task43\\Task43.csproj",
+        "projectUniqueName": "D:\\GB\\C#\\HomeWork_C_Sharp\\HW6\\Task43\\Task43.csproj",
         "projectName": "Task43",
-        "projectPath": "C:\\GeekBrains\\С#\\HomeWork_C_Sharp\\HW6\\Task43\\Task43.csproj",
-        "packagesPath": "C:\\Users\\Максим\\.nuget\\packages\\",
-        "outputPath": "C:\\GeekBrains\\С#\\HomeWork_C_Sharp\\HW6\\Task43\\obj\\",
+        "projectPath": "D:\\GB\\C#\\HomeWork_C_Sharp\\HW6\\Task43\\Task43.csproj",
+        "packagesPath": "C:\\Users\\riffa\\.nuget\\packages\\",
+        "outputPath": "D:\\GB\\C#\\HomeWork_C_Sharp\\HW6\\Task43\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Максим\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\riffa\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

@@ -10,7 +10,7 @@ int m = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите число столбцов массива: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
-int[,] arr = new int[m,n];
+double[,] arr = new double[m, n];
 for (int i = 0; i < arr.GetLength(0); i++)
 {
     for (int j = 0; j < arr.GetLength(1) ; j++)
@@ -20,7 +20,7 @@ for (int i = 0; i < arr.GetLength(0); i++)
 }
 
 PrintArr(arr);
-void PrintArr(int[,] arry)
+void PrintArr(double[,] arry)
 {
    for (int i = 0; i < arry.GetLength(0); i++)
     {
@@ -32,15 +32,19 @@ void PrintArr(int[,] arry)
     } 
 }
 
-PrintArr(arr);
-void PrintArr(int[,] arry)
+Console.Write($"Среднее арифметическое каждого столбца: ");
+SredArith(arr);
+void SredArith(double[,] array)
 {
-   for (int j = 0; i < arry.GetLength(1); j++)
+   
+    for (int j = 0; j < array.GetLength(1); j++)
     {
-        for (int i = 0; i < arry.GetLength(0) ; i++)
+        double sredArith = 0;
+        for (int i = 0; i < array.GetLength(0) ; i++)
         {
-            Console.Write($"{arry[i, j],4}");
+            sredArith = sredArith + array[i, j]/array.GetLength(0);
         }
-        Console.WriteLine();
-    } 
+        Console.Write($"{Math.Round(sredArith, 2)}, ");
+    }
+    Console.Write("\b\b ");
 }

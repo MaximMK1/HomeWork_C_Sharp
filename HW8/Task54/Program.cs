@@ -14,22 +14,23 @@ int m = Convert.ToInt32(Console.ReadLine());
 Console.Write("Задайте кол-во столбцов массива:  ");
 int n = Convert.ToInt32(Console.ReadLine());
 
-FillArray(m, n);
-PrintArray(FillArray(m, n));
-SortArr(FillArray(m, n));
-PrintArray(FillArray(m, n));
+int[,] array = new int[m, n];
 
-int[,] FillArray(int row, int col)
+FillArray(array);
+PrintArray(array);
+SortArr(array);
+PrintArray(array);
+
+int[,] FillArray(int[,] arry)
 {
-    int[,] array = new int[row, col];
-    for (int i = 0; i < array.GetLength(0); i++)
+    for (int i = 0; i < arry.GetLength(0); i++)
     {
-        for (int j = 0; j < array.GetLength(1); j++)
+        for (int j = 0; j < arry.GetLength(1); j++)
         {
-            array[i, j] = new Random().Next(1, 20);
+            arry[i, j] = new Random().Next(1, 20);
         }
     }
-    return array;
+    return arry;
 }
 
 void PrintArray(int[,] Array)
@@ -42,24 +43,24 @@ void PrintArray(int[,] Array)
         }
         Console.WriteLine();
     }
-
+Console.WriteLine();
 }
 
 void SortArr(int[,] arr)
 {
     for (int i = 0; i < arr.GetLength(0); i++)
     {
-        for (int j = 0; j < arr.GetLength(1) - 1; j++)
+        for (int j = 0; j < arr.GetLength(1)-1; j++)
         {
-            int maxElement = j;
+            int maxPosition = j;
 
-            for (int k = j + 1; k < arr.Length; k++)
+            for (int k = j + 1; k < arr.GetLength(1); k++)
             {
-                if (arr[i, k] > arr[i, maxElement]) maxElement = k;
+                if (arr[i, k] > arr[i, maxPosition]) maxPosition = k;
             }
             int temp = arr[i,j];
-            arr[i,j] = arr[i, maxElement];
-            arr[i, maxElement] = temp;
+            arr[i,j] = arr[i, maxPosition];
+            arr[i, maxPosition] = temp;
         }
     }
 }

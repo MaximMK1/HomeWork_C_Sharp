@@ -1,0 +1,15 @@
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW9\Task64\bin\Debug\net7.0\Task64.exe
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW9\Task64\bin\Debug\net7.0\Task64.deps.json
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW9\Task64\bin\Debug\net7.0\Task64.runtimeconfig.json
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW9\Task64\bin\Debug\net7.0\Task64.dll
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW9\Task64\bin\Debug\net7.0\Task64.pdb
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW9\Task64\obj\Debug\net7.0\Task64.csproj.AssemblyReference.cache
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW9\Task64\obj\Debug\net7.0\Task64.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW9\Task64\obj\Debug\net7.0\Task64.AssemblyInfoInputs.cache
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW9\Task64\obj\Debug\net7.0\Task64.AssemblyInfo.cs
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW9\Task64\obj\Debug\net7.0\Task64.csproj.CoreCompileInputs.cache
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW9\Task64\obj\Debug\net7.0\Task64.dll
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW9\Task64\obj\Debug\net7.0\refint\Task64.dll
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW9\Task64\obj\Debug\net7.0\Task64.pdb
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW9\Task64\obj\Debug\net7.0\Task64.genruntimeconfig.cache
+C:\GeekBrains\С#\HomeWork_C_Sharp\HW9\Task64\obj\Debug\net7.0\ref\Task64.dll
